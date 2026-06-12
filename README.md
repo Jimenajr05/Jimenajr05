@@ -69,7 +69,7 @@ Aplicación real en producción para la Asociación Administradora de Acueductos
 
 **Universidad Técnica Nacional** — Ciudad Quesada, Alajuela  
 Bachillerato en Ingeniería en Software *(en curso)*  
-Diplomado en Ingeniería en Software *(graduación junio 2026)*
+Diplomado en Ingeniería en Software
 
 ---
 
