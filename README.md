@@ -21,6 +21,7 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
   <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
@@ -43,16 +44,33 @@ Plataforma completa de compraventa de autos en Costa Rica que incluye:
 
 ---
 
-### 💧 [ASADA Cedral](https://github.com/Jimenajr05/asada-cedral)
-> Sitio web oficial para la gestión comunitaria del agua — Proyecto TCU
+### 💧 [ASADA Cedral y Dulce Nombre](https://github.com/Jimenajr05/asada-cedral-dulcenombre-system)
+> Sistema web institucional completo para la gestión de una organización comunitaria — Proyecto TCU
 
-Aplicación real en producción para la Asociación Administradora de Acueductos de Cedral:
-- **Dashboard de calidad del agua** con parámetros en tiempo real (pH, cloro, turbidez)
-- Panel de administración para avisos, galería y contenido del sitio
-- Consulta de recursos hídricos e infraestructura
-- Proyecto de impacto social real desarrollado como servicio comunitario (TCU)
+Plataforma MERN de doble función desarrollada como servicio comunitario real:
+- **Portal público** con avisos por nivel de alerta, bitácoras de calidad del agua (pH, cloro, turbidez), proyectos de infraestructura y documentos descargables
+- **Panel de administración** protegido con JWT para gestión dinámica de todo el contenido
+- **Tablero Kanban interno** para gestión de tareas del equipo directivo
+- Módulos de transparencia: actas de asambleas, reglamentos, calendario de sesiones y certificados oficiales
+- Arquitectura desacoplada Backend/Frontend para escalabilidad
+- **187 commits** · Proyecto en producción para organización real
 
-`React` `Node.js` `MongoDB` `REST API` `TailwindCSS`
+`React` `Node.js` `Express` `MongoDB` `JWT` `Tailwind CSS` `Vite` `Multer`
+
+---
+
+### 🪧 [Rotúlers Web](https://github.com/Jimenajr05/rotulers-web) · [Demo en vivo ↗](https://rotulers-web.vercel.app)
+> Sitio web corporativo para empresa de rótulos y señalización — Ciudad Quesada, Costa Rica
+
+Plataforma informativa de alto rendimiento optimizada para SEO y velocidad:
+- **Cotizador interactivo por WhatsApp** — selección de servicios con generación automática de mensaje personalizado
+- **Galería con visor Lightbox** para el portafolio de proyectos
+- **18 landing pages de servicios** indexadas individualmente en buscadores
+- SEO técnico avanzado: JSON-LD (Schema.org), Open Graph, sitemap, robots.txt e imágenes en formato WebP/AVIF
+- Animaciones fluidas con GSAP
+- Sistema modular de componentes HTML reutilizables via Vite
+
+`HTML5` `JavaScript` `Tailwind CSS` `Vite` `GSAP` `SEO`
 
 ---
 
